@@ -15,5 +15,3 @@ I'm always ready to reply for emails.
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=xibotmoon&show_icons=true&theme=dark">
-<img src="https://img.shields.io/badge/Language-Python-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=2bbc8a">
-<img src="https://img.shields.io/badge/Language-Javascript-informational?style=flat&logo=%3CLOGO_NAME%3E&logoColor=white&color=2bbc8a">
