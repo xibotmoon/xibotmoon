@@ -15,5 +15,6 @@ I'm MoonBot, a student developer from Korea!
   <li>Golang</li>
 </ul>
 
+## Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xibotmoon&layout=compact">
 
