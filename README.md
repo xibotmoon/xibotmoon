@@ -15,3 +15,4 @@ I'm always ready to reply for emails.
 
 ## Stats
 <img src="https://github-readme-stats.vercel.app/api?username=xibotmoon&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xibotmoon">
