@@ -10,7 +10,7 @@ I'm MoonBot, a student developer from Korea!
 
 ## What I'm studying
 <ul>
-  <li>TensorFlow (Python)</li>
+  <li>TypeScript</li>
   <li>Java</li>
   <li>Golang</li>
 </ul>
